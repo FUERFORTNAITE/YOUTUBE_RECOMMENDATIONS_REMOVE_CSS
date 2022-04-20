@@ -1,0 +1,5 @@
+@document url("https://www.youtube.com") {
+    #contents {
+        display: none;
+    }
+}
